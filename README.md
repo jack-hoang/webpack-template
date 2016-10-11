@@ -19,4 +19,4 @@ Template project for webpack, karma, jasmine
 1. Install Nightwatch `npm install -g nightwatch`
 2. Install Selenium `npm install selenium-standalone@latest`
 3. Install Selenium Server `npm run-script selenium-install`
-4. Run `nightwatch`
+4. Run `npm run-script test:browser`
